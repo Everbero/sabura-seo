@@ -1,0 +1,60 @@
+site_name: Saburá Vídeo - Conteúdos SEO
+site_description: Estrutura de páginas e conteúdos SEO para o site da Saburá Vídeo
+site_url: https://everbero.github.io/sabura-seo/
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Início: index.md
+
+  - Cornerstone:
+      - Produtora de Vídeo Corporativo: cornerstone/produtora-de-video-corporativo.md
+      - Serviços de Produção de Vídeo Corporativo: cornerstone/servicos-de-producao-de-video-corporativo.md
+      - Vídeos Corporativos: cornerstone/videos-corporativos.md
+
+  - Serviços:
+      - Produção de Vídeo:
+          - Vídeo Institucional: servicos/producao-de-video/video-institucional.md
+          - Vídeo Empresarial: servicos/producao-de-video/video-empresarial.md
+          - Vídeo de Marca: servicos/producao-de-video/video-de-marca.md
+          - Vídeo para Treinamento: servicos/producao-de-video/video-para-treinamento.md
+          - Vídeo para Comunicação Interna: servicos/producao-de-video/video-para-comunicacao-interna.md
+
+  - Conteúdo Audiovisual:
+      - Conteúdo Audiovisual: conteudo-audiovisual/conteudo-audiovisual.md
+      - Podcast em Vídeo: conteudo-audiovisual/podcast.md
+      - Videocast: conteudo-audiovisual/videocast.md
+      - Websérie: conteudo-audiovisual/webserie.md
+      - Cobertura de Eventos: conteudo-audiovisual/cobertura-de-eventos.md
+
+  - Apoio SEO:
+      - Comunicação Corporativa: apoio-seo/comunicacao-corporativa.md
+      - Comunicação ESG: apoio-seo/comunicacao-esg.md
+      - Cultura Organizacional: apoio-seo/cultura-organizacional.md
+      - Employer Branding: apoio-seo/employer-branding.md
+
+  - Sobre:
+      - Sobre a Saburá: sobre/sobre.md
+      - Metodologia: sobre/metodologia.md
+
+  - Telas: telas/index.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+
+extra_css:
+  - stylesheets/extra.css
