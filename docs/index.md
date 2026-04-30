@@ -15,10 +15,98 @@ Os textos aqui já estão estruturados com foco em ranqueamento, escaneabilidade
 
 ---
 
+## Tipos de página (importante para o layout)
+
+Os conteúdos estão organizados por função estratégica dentro do SEO.  
+Cada tipo de página tem um papel diferente e isso deve ser considerado no design.
+
+### Cornerstone (páginas principais)
+
+São as páginas mais importantes para SEO.
+
+- Foco em palavras-chave principais
+- Conteúdo mais completo e estruturado
+- Devem ter alta clareza e organização
+- Funcionam como base de navegação e autoridade
+
+Exemplo:  
+"Produtora de vídeo", "Vídeos corporativos"
+
+👉 O layout deve priorizar **clareza, leitura e hierarquia**, não excesso visual.
+
+---
+
+### Páginas de serviço
+
+São páginas com foco em conversão e busca específica.
+
+- Explicam um serviço de forma direta
+- Estrutura mais objetiva
+- Foco em gerar contato
+
+👉 O layout pode ser mais comercial, mas sem quebrar a estrutura do conteúdo.
+
+---
+
+### Conteúdo audiovisual (cluster de conteúdo)
+
+São páginas voltadas para autoridade e presença.
+
+- Explicam formatos e estratégias
+- Apoiam o posicionamento da empresa
+- Trabalham meio de funil
+
+👉 Podem ter mais liberdade visual, mas mantendo leitura clara.
+
+---
+
+### Apoio SEO (topo de funil)
+
+São conteúdos estratégicos que conectam temas ao negócio.
+
+- Não são páginas de venda direta
+- Ajudam a ranquear termos relacionados
+- Reforçam autoridade
+
+Exemplo:  
+Employer branding, cultura organizacional, ESG
+
+👉 Layout pode ser mais editorial, mas mantendo estrutura intacta.
+
+---
+
+### Sobre
+
+Página institucional.
+
+- Mistura posicionamento + SEO local
+- Pode ter mais liberdade narrativa
+
+---
+
+### Observação sobre a Home
+
+A home **não precisa seguir rigidamente essa estrutura de SEO**.
+
+Ela pode ser mais:
+
+- Conceitual
+- Visual
+- Artística
+
+Mas ainda deve:
+
+- Direcionar para páginas estratégicas
+- Manter clareza na proposta da empresa
+
+---
+
 ## Diretrizes importantes para o layout (SEO)
 
-Os conteúdos deste projeto não são apenas textos - eles já foram estruturados estrategicamente para SEO.  
+Os conteúdos deste projeto não são apenas textos, eles já foram estruturados estrategicamente para SEO.  
 Por isso, o layout deve respeitar essa estrutura para não comprometer o desempenho orgânico.
+
+---
 
 ### Hierarquia de títulos
 
@@ -74,5 +162,3 @@ Garantir que o site una:
 - Performance em SEO  
 
 Qualquer alteração estrutural deve ser avaliada considerando impacto em ranqueamento.
-
----
