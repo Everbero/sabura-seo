@@ -3,6 +3,13 @@
 Este ambiente reúne os conteúdos das páginas do site, organizados por clusters de SEO.  
 Os textos aqui já estão estruturados com foco em ranqueamento, escaneabilidade e conversão.
 
+## Atenção
+
+Todo o conteúdo deste material foi desenvolvido para uso exclusivo neste projeto.
+
+A reutilização em outros contextos ou páginas pode impactar negativamente o SEO por gerar conteúdo duplicado.  
+Caso seja necessário reaproveitar trechos, recomenda-se adaptação do texto.
+
 ---
 
 ## Estrutura do conteúdo
